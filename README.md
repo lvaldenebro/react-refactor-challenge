@@ -1,10 +1,14 @@
 # Project's title: Awesome Profile Cards: a refactor of an existing page
 
+# Web page:
+
+react-refactor-challenge-production.up.railway.app
+
 ## Description
 
 Welcome to the profile card factory place! If you came to this site, you'll probably be looking for a good way of creating personalized cards for different aspects of your life and even share it in Twitter!
 
-The objetive of this project is to refactor an existing and functioning page (http://beta.adalab.es/project-promo-r-module-2-team-9/), redoing the code to work with React instead of JS, and creting our own server and API to manage the data, as well as a DDBB.
+The objetive of this project is to refactor an existing and functioning page (http://beta.adalab.es/project-promo-r-module-2-team-9/), redoing the code to work with React instead of JS, and creting our own server (using Railway), APIs REST to manage the data, as well as a DDBB.
 
 Which are the improvements in relation to the previous page?
 
