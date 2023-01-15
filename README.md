@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Demo deployed in Railway](react-refactor-challenge-production.up.railway.app)
+[Demo deployed in Railway](http://react-refactor-challenge-production.up.railway.app)
 
 ## Description
 
