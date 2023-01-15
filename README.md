@@ -1,6 +1,6 @@
 # Project's title: Awesome Profile Cards: a refactor of an existing page
 
-# Web page:
+## Demo
 
 react-refactor-challenge-production.up.railway.app
 
@@ -8,11 +8,11 @@ react-refactor-challenge-production.up.railway.app
 
 Welcome to the profile card factory place! If you came to this site, you'll probably be looking for a good way of creating personalized cards for different aspects of your life and even share it in Twitter!
 
-The objetive of this project is to refactor an existing and functioning page (http://beta.adalab.es/project-promo-r-module-2-team-9/), redoing the code to work with React instead of JS, and creting our own server (using Railway), APIs REST to manage the data, as well as a DDBB.
+The objective of this project is to refactor an existing and functioning page (http://beta.adalab.es/project-promo-r-module-2-team-9/), redoing the code to work with React instead of JS, and creating our own server (using Railway), APIs REST to manage the data, as well as a DB.
 
-Which are the improvements in relation to the previous page?
+What are the improvements in relation to the previous page?
 
-- The card is more shareable and you can use it whenever you want with the link, as it is permanent thanks to the DDBB.
+- The card is more shareable and you can use it whenever you want with the link, as it is permanent thanks to the DB.
 - The agility and speed in the creation of the card, in the case a lot of people is using it.
 - The maintenance of the page and its modifications are easier thanks to React and its components.
 
@@ -22,14 +22,14 @@ This web page was made using HTML5, SaSS, JSX, React, localStorage, ExpressJS, N
 
 Please, take into account that all HTML, SaSS and React files are divided in partials and they are named the same so it is easier to loof for the code. All of them have descriptive names according to the place of the page they are developing or working on.
 
-## Table of contents and How to Use the Project
+## How to Use the Project
 
 ### FrontEnd vs BackEnd
 
 This project is build over two different projects.
 
-- In root ('src', 'views' folders) you can find the server data and the DDBB data (BackEnd).
-- In 'web' folder there is all the information for the FrontEnd development and the appeareance of the web page (FrontEnd).
+- In root (`src`, `views` folders) you can find the server data and the DB data (BackEnd).
+- In `web` folder there is all the information for the FrontEnd development and the appeareance of the web page (FrontEnd).
 
 ### Main landing
 
@@ -56,14 +56,18 @@ If you want to download this project, you'll need to:
 1. Clone all files in this repository
 2. Open two different terminals:
 
-- In root: run 'npm install'
-- In 'web' folder: run 'npm install'
+- In root: run `npm install`
+- In `web` folder: run `npm install`
   After this step, you will have created new_modules folder in each of the folders you have open a terminal. This will allow you to use the page.
 
 3. Continue with the two terminals:
-   a. In root: run 'npm run dev' to lunch the server (production)
-   b. In 'web' folder: run 'npm start' to lunch the FrontEnd (development)
+   a. In root: run `npm run dev` to lunch the server (production)
+   b. In `web` folder: run `npm start` to lunch the FrontEnd (development)
 4. You can now play.
+
+## License
+
+All this code is released into the public domain.
 
 ## Credits
 
